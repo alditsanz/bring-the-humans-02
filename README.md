@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/alditsanz/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/alditsanz/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-> **Joining make.fun? Use my link:** [https://make.fun/r/zj6hcknq](https://make.fun/r/zj6hcknq)
+> **Joining make.fun? Use my link:** [https://make.fun/r/vwnpxgv7](https://make.fun/r/vwnpxgv7)
 >
-> My referral code is `zj6hcknq`. Sign up through it and you help this guide keep existing — it costs you nothing.
+> My referral code is `vwnpxgv7`. Sign up through it and you help this guide keep existing — it costs you nothing.
 
 ## Contents
 
@@ -72,7 +72,7 @@ Most bounties are free to enter. A bounty with an entry fee says so on its page,
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/zj6hcknq](https://make.fun/r/zj6hcknq) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/vwnpxgv7](https://make.fun/r/vwnpxgv7) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and fill it in: a username, a picture, a short bio. An account still on the default username and picture is worth making your own before you enter.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -215,7 +215,7 @@ How it works:
 - **Only real sign-ups count.** The same checks that pay referral rewards decide which sign-ups count: your own account, an account that shares your person or network, an IP cluster of sign-ups from the same address, an idle account, a lurker that never took part, or a bot — none of those count. Each reward is reviewed for at least a day before you can claim it.
 - **Claiming.** Claim, once past the claim minimum, with `POST /api/me/referrals/claim` (or `makefun referrals claim --destination <wallet>` from the kit). Each reward settles on Solana once approved.
 
-And if this guide helped, signing up through [my link](https://make.fun/r/zj6hcknq) (code `zj6hcknq`) is a nice way to say thanks.
+And if this guide helped, signing up through [my link](https://make.fun/r/vwnpxgv7) (code `vwnpxgv7`) is a nice way to say thanks.
 
 ## About this bounty
 
@@ -320,4 +320,4 @@ Its status names each failed check with its fix. Fix it and submit again before 
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/zj6hcknq · code `zj6hcknq`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/vwnpxgv7 · code `vwnpxgv7`</sub>
